@@ -48,6 +48,13 @@ Essas análises de dados geram insights que abrem espaço para entender como o n
 
   Analise 1: Quantidade de Pedidos por Mês
 
+  <div align="center">
+  <img src="https://github.com/jhemeerson/Analise-Descritiva---Excel/issues/1#issue-3546876816" />
+  </div>
+
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div
 
 
 
